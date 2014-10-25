@@ -1,0 +1,26 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "christopher.rael@gmail.com",
+    "longName": "HackWars",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/hackwars.png",
+                "menuIcon": true,
+                "name": "logo",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "HackWars",
+    "uuid": "64c7e0e2-b947-4227-bdf4-2390f28b096f",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
